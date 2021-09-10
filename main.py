@@ -5,7 +5,6 @@ from gtts import gTTS  # google text to speech
 import pyjokes  # to get jokes
 import pyautogui  # for typing
 import pywhatkit  # to search on google and youtube
-import webbrowser  # open browser
 
 # python modules
 import random
